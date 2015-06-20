@@ -1,4 +1,4 @@
-module.exports = {
+{
   "backspace": 8,
   "tab": 9,
   "enter": 13,
@@ -13,4 +13,4 @@ module.exports = {
   "right": 39,
   "down": 40,
   "delete": 46
-};
+}
