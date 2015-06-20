@@ -11,7 +11,8 @@
     "url": "git+https://github.com/nichoth/keycodes.git"
   },
   "keywords": [
-    "keycodes"
+    "keycodes",
+    "json"
   ],
   "author": "Nick Thomas <nichoth@gmail.com>",
   "license": "ISC",
